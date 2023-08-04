@@ -13,5 +13,6 @@ email: __hschrauff@hbs.edu__
 ## Hobbies
 
 + Reading, running, weightlifting, and watching football (American and non-American)!
+  
+<img align="right" width="300" height="300" src="https://github.com/HPSchrauff/HPSchrauff.github.io/assets/135661896/64c91739-99a8-4fa3-a930-824cb34625e8">
 
-![Profile Picture] (/HPSchrauff.github.io/assets/profile_photo.JPG)
