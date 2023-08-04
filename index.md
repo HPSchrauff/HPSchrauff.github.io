@@ -1,12 +1,13 @@
-# MadeUpName
-## PhD Student, MadeUpPlace
+# Hayden Schrauff
+## Predoctoral Fellow, Harvard Business School
+#### PI: Professor Alex MacKay
+email: __hschrauff@hbs.edu__
 
-email: __madeUpName@madeUpDomain.edu__
+## Interests
 
-## Research
++ Testing microeconomic theory with data
 
-+ [This is a paper hosted locally](papers/paper1.pdf)
-+ This can also be an arxiv link or a link to a journal website
-  * Syntax is [ square brackets for text ] (parentheses for file or location it points to)
+## Hobbies
 
++ Reading, running, weightlifting, and watching football (American and non-American)!
 
