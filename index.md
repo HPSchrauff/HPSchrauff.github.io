@@ -14,3 +14,4 @@ email: __hschrauff@hbs.edu__
 
 + Reading, running, weightlifting, and watching football (American and non-American)!
 
+![Profile Picture] (/HPSchrauff.github.io/assets/profile_photo.JPG)
