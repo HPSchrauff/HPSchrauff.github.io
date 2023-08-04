@@ -6,6 +6,8 @@ email: __hschrauff@hbs.edu__
 ## Interests
 
 + Testing microeconomic theory with data
++ Experimental economics
+  *Using surveys, tracking consumer data, and experimentation to explore both market- and consumer-level behavior
 
 ## Hobbies
 
